@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker exec alltricks-php-fpm env TERM=xterm-256color "$@"
